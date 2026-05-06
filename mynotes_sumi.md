@@ -40,6 +40,46 @@ pythondaki (help) neuse CLI Bash'te "man" o.
 >> ls --help also.
 >> or just help
 
+MOST COMMON LINUX COMMANDS
+- ls: lists files and directories
+- pwd: displays the full path of the cd
+- mddir: creates new directories and folders
+- cd: changes the working directory
+- rmdir deletes empty directories
+- cat: displays file contents and combine muştiple files
+- cp: copies files and directories
+- mv: move or rename files and directories
+- rm: deletes files permanently
+- uname: displays system information
+- locate: finds files using database
+- touch: creates empty files and updates file timestamps
+- ln: creates links between files (ln -s file1.txt fle2.txt)
+- clear: clears the terminal
+- \: escape (file name sumi kara ise aradaki boşluğu esgeçer)
+- ps: displays running process (option ya da argument almaz)
+- man: explains the commands.
+- grep: search text patterns in a file. grep "sumi" sumikaracv.docs
+- echo displays text in the terminaş.
+- wget: downloads files from internet using URL
+- whoami: displays the current user
+- sort: sorts file contents
+- cal: displays calender
+- whereis: locates command files
+- df [options]: displays disk space usage. df -h: size 
+-  wc: counts words, lines, characters of a file.
+-  
+ 
+
+
+
+
+
+
+
+
+
+
+
 what does the command statmyfile.txt, df -h / do? answer: man stat and man df
 which command for search for files in a directory hierarhy? answer: apropos "search for files" or without ""
 
